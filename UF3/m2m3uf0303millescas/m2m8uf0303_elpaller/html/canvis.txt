@@ -1,0 +1,36 @@
+../imatges/     back.gif
+../img/         back.gif
+
+../imatges/     acti.gif
+../img/         acti.gif
+
+../img/    arbre.gif
+../img/         arbre.gif
+
+file:///125/Users/agm2/Sites/m2c5w04/../img/paller.gif
+../img/paller.gif
+
+../img//home.gif
+../img/home.gif
+
+
+1er canvi
+
+../imatges/     
+../img/  
+
+
+
+2n canvi
+
+../img/    
+../img/         
+
+
+
+3r canvi
+
+../img/
+../img/
+
+
